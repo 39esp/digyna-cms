@@ -3,6 +3,7 @@ Gestor administrador de contenido para páginas dinámicas e implementación de 
 
 ## Cómo colaborar
 Si quieres colaborar, enviando contribuciones o comentarios, te invitamos a hacerlo utilizando el sistema de issues de GitHub.
+* En el repositorio se encuentra un archivo tasks.txt, en el se encuentra la lista de tareas para desarrollar.
 
 ## Licencia
 Este programa es software libre, y usted puede redistribuirlo bajo ciertas condiciones;
@@ -26,4 +27,4 @@ Este programa es software libre, y usted puede redistribuirlo bajo ciertas condi
   
 * password: digyna
 
-9. Algun problema? Notificalo utilizando el sistema de issues de GitHub. 
+9. Algun problema? Notificalo utilizando el sistema de issues de GitHub.
